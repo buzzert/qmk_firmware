@@ -5,6 +5,7 @@
 
 enum my_keycodes {
     KB_CAPSESC = SAFE_RANGE,
+    KB_TABHYPR,
 
     USER_SAFE_RANGE
 };
